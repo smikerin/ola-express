@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/about', (req, res) => {
-  res.send('Hello World from Express, by Bill!')
+  res.send('Hello World from Expres, by Dylan!')
 })
 
 app.listen(port, () => {
